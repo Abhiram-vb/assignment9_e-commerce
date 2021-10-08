@@ -65,5 +65,8 @@ const readByOrData = async()=>{
     catch(err){
         console.log(err)
     }
+    finally{
+        mongoose.connection.close()
+    }
 }
 readByOrData()

@@ -11,5 +11,8 @@ const deleteProductDetails = async(_id) =>{
     catch(err){
         console.log(err)
     }
+    finally{
+        mongoose.connection.close()
+    }
 }
 deleteProductDetails("615fc1a2b63fff055ba200b7")

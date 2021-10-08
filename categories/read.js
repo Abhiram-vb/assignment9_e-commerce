@@ -2,13 +2,13 @@ const mongoose = require("mongoose")
 mongoose.connect("mongodb://localhost:27017/e-commerce").then(()=>console.log("connection Succesfull....  ")).catch((err)=>console.log(err))
 const categorySchema = require("./schema")
 const readAllData = async() =>{
-    try{
-        const result = await categorySchema.find()
-        console.log(result)
-    }
-    catch(err){
-        console.log(err)
-    }
+try{
+    const result = await categorySchema.find()
+    console.log(result)
+}
+catch(err){
+    console.log(err)
+}
 }
 readAllData()
 
@@ -24,6 +24,7 @@ const readByQueryData = async() =>{
 readByQueryData()
 
 const readByLimitData = async() =>{
+
     try{
         const result = await categorySchema.find().limit(2)
         console.log(result)
@@ -64,6 +65,9 @@ const readByOrData = async()=>{
     }
     catch(err){
         console.log(err)
+    }
+    finally{
+        mongoose.connection.close()
     }
 }
 readByOrData()

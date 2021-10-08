@@ -10,5 +10,8 @@ const updateCategoryDetails = async(_id)=>{
     catch(err){
         console.log(err)
     }
+    finally{
+        mongoose.connection.close()
+    }
 }
-updateCategoryDetails("615fd49302790535654c12f2 ")
+updateCategoryDetails("615fd49302790535654c12f2")

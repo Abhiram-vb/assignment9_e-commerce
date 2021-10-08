@@ -5,11 +5,14 @@ const categorySchema = require('./schema')
 const deleteCategoryDetails = async(_id) =>{
     try{
         console.log(categorySchema)
-        const result = await categorySchema.findByIdAndDelete({_id})
+        const result = await categorySchema.deleteMany({})
         console.log(result)
     }
     catch(err){
         console.log(err)
+    }
+    finally{
+        mongoose.connection.close()
     }
 }
 deleteCategoryDetails("615fd49302790535654c12f2")

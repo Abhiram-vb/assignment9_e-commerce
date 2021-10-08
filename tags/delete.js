@@ -11,5 +11,8 @@ const deleteTagDetails = async(_id) =>{
     catch(err){
         console.log(err)
     }
+    finally{
+        mongoose.connection.close()
+    }
 }
 deleteTagDetails("615fc531694afcf69cb593a5")
