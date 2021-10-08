@@ -1,0 +1,574 @@
+%PDF-1.5
+%âãÏÓ
+19 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+22 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+24 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+26 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+28 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+30 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+32 0 obj
+<</FunctionType 2/C0[0.8902 0.94902 0.99608]/C1[0.78039 0.87059 0.94118]/Domain[0 1]/N 1>>
+endobj
+34 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(https://dbschema.com)>>/Subtype/Link/H/N/Rect[715.64 361.6 960 356]>>
+endobj
+35 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.carts)/Subtype/Stamp/Rect[753.6 252.16 776 240.8]/AP<</N 21 0 R>>>>
+endobj
+36 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.carts)>>/Subtype/Link/H/N/Rect[753.6 249.6 776 240.8]>>
+endobj
+37 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[706.56 233.76 720.43 222.4]/AP<</N 21 0 R>>>>
+endobj
+38 0 obj
+<</Name/#23Comment/Contents(product \nstring not null \n)/Subtype/Stamp/Rect[706.56 220.96 741.24 209.6]/AP<</N 21 0 R>>>>
+endobj
+39 0 obj
+<</Name/#23Comment/Contents(user_id \nstring not null \n)/Subtype/Stamp/Rect[706.56 208.16 740.66 196.8]/AP<</N 21 0 R>>>>
+endobj
+40 0 obj
+<</Name/#23Comment/Contents(product_quantity \ninteger not null \n)/Subtype/Stamp/Rect[706.56 195.36 783.45 184]/AP<</N 21 0 R>>>>
+endobj
+41 0 obj
+<</Name/#23Comment/Contents(base_price \ninteger not null \n)/Subtype/Stamp/Rect[706.56 182.56 757.43 171.2]/AP<</N 21 0 R>>>>
+endobj
+42 0 obj
+<</Name/#23Comment/Contents(sell_price \ninteger not null \n)/Subtype/Stamp/Rect[706.56 169.76 750.48 158.4]/AP<</N 21 0 R>>>>
+endobj
+43 0 obj
+<</Name/#23Comment/Contents(total_price \ninteger not null \n)/Subtype/Stamp/Rect[706.56 156.96 754.54 145.6]/AP<</N 21 0 R>>>>
+endobj
+44 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[706.56 144.16 723.32 132.8]/AP<</N 21 0 R>>>>
+endobj
+45 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.categories)/Subtype/Stamp/Rect[888 290.56 936 279.2]/AP<</N 21 0 R>>>>
+endobj
+46 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.categories)>>/Subtype/Link/H/N/Rect[888 288 936 279.2]>>
+endobj
+47 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[872.96 272.16 886.83 260.8]/AP<</N 21 0 R>>>>
+endobj
+48 0 obj
+<</Name/#23Comment/Contents(name \nstring not null \n)/Subtype/Stamp/Rect[872.96 259.36 898.97 248]/AP<</N 21 0 R>>>>
+endobj
+49 0 obj
+<</Name/#23Comment/Contents(slug \nstring not null \n)/Subtype/Stamp/Rect[872.96 246.56 892.03 235.2]/AP<</N 21 0 R>>>>
+endobj
+50 0 obj
+<</Name/#23Comment/Contents(image \nstring not null \n)/Subtype/Stamp/Rect[872.96 233.76 901.28 222.4]/AP<</N 21 0 R>>>>
+endobj
+51 0 obj
+<</Name/#23Comment/Contents(description \nstring not null \n)/Subtype/Stamp/Rect[872.96 220.96 923.24 209.6]/AP<</N 21 0 R>>>>
+endobj
+52 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[872.96 208.16 889.72 196.8]/AP<</N 21 0 R>>>>
+endobj
+53 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.orders)/Subtype/Stamp/Rect[488 290.56 516.8 279.2]/AP<</N 21 0 R>>>>
+endobj
+54 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.orders)>>/Subtype/Link/H/N/Rect[488 288 516.8 279.2]>>
+endobj
+55 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[450.56 272.16 464.43 260.8]/AP<</N 21 0 R>>>>
+endobj
+56 0 obj
+<</Name/#23Comment/Contents(users_id \nstring not null \n)/Subtype/Stamp/Rect[450.56 259.36 489.86 248]/AP<</N 21 0 R>>>>
+endobj
+57 0 obj
+<</Name/#23Comment/Contents(total_items \ninteger not null \n)/Subtype/Stamp/Rect[450.56 246.56 500.84 235.2]/AP<</N 21 0 R>>>>
+endobj
+58 0 obj
+<</Name/#23Comment/Contents(products \narray not null \n)/Subtype/Stamp/Rect[450.56 233.76 490.44 222.4]/AP<</N 21 0 R>>>>
+endobj
+59 0 obj
+<</Name/#23Comment/Contents(billing_address \nstring not null \n)/Subtype/Stamp/Rect[450.56 220.96 519.92 209.6]/AP<</N 21 0 R>>>>
+endobj
+60 0 obj
+<</Name/#23Comment/Contents(shipping_address \nstring not null \n)/Subtype/Stamp/Rect[450.56 208.16 532.06 196.8]/AP<</N 21 0 R>>>>
+endobj
+61 0 obj
+<</Name/#23Comment/Contents(transaction_status \nstring not null \n)/Subtype/Stamp/Rect[450.56 195.36 534.96 184]/AP<</N 21 0 R>>>>
+endobj
+62 0 obj
+<</Name/#23Comment/Contents(payment_mode \nstring not null \n)/Subtype/Stamp/Rect[450.56 182.56 522.24 171.2]/AP<</N 21 0 R>>>>
+endobj
+63 0 obj
+<</Name/#23Comment/Contents(payment_status \nstring not null \n)/Subtype/Stamp/Rect[450.56 169.76 523.97 158.4]/AP<</N 21 0 R>>>>
+endobj
+64 0 obj
+<</Name/#23Comment/Contents(order_status \nstring not null \n)/Subtype/Stamp/Rect[450.56 156.96 508.36 145.6]/AP<</N 21 0 R>>>>
+endobj
+65 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[450.56 144.16 467.32 132.8]/AP<</N 21 0 R>>>>
+endobj
+66 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.products)/Subtype/Stamp/Rect[316 277.76 356 266.4]/AP<</N 21 0 R>>>>
+endobj
+67 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.products)>>/Subtype/Link/H/N/Rect[316 275.2 356 266.4]>>
+endobj
+68 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[271.36 259.36 285.23 248]/AP<</N 21 0 R>>>>
+endobj
+69 0 obj
+<</Name/#23Comment/Contents(name \nstring not null \n)/Subtype/Stamp/Rect[271.36 246.56 297.37 235.2]/AP<</N 21 0 R>>>>
+endobj
+70 0 obj
+<</Name/#23Comment/Contents(thumbnail \nstring not null \n)/Subtype/Stamp/Rect[271.36 233.76 316.44 222.4]/AP<</N 21 0 R>>>>
+endobj
+71 0 obj
+<</Name/#23Comment/Contents(product_gallery \narray not null \n)/Subtype/Stamp/Rect[271.36 220.96 342.45 209.6]/AP<</N 21 0 R>>>>
+endobj
+72 0 obj
+<</Name/#23Comment/Contents(description \nstring not null \n)/Subtype/Stamp/Rect[271.36 208.16 321.64 196.8]/AP<</N 21 0 R>>>>
+endobj
+73 0 obj
+<</Name/#23Comment/Contents(base_price \ninteger not null \n)/Subtype/Stamp/Rect[271.36 195.36 322.23 184]/AP<</N 21 0 R>>>>
+endobj
+74 0 obj
+<</Name/#23Comment/Contents(sell_price \ninteger not null \n)/Subtype/Stamp/Rect[271.36 182.56 315.28 171.2]/AP<</N 21 0 R>>>>
+endobj
+75 0 obj
+<</Name/#23Comment/Contents(category_name \nstring not null \n)/Subtype/Stamp/Rect[271.36 169.76 343.04 158.4]/AP<</N 21 0 R>>>>
+endobj
+76 0 obj
+<</Name/#23Comment/Contents(tags \narray not null \n)/Subtype/Stamp/Rect[271.36 156.96 291.02 145.6]/AP<</N 21 0 R>>>>
+endobj
+77 0 obj
+<</Name/#23Comment/Contents(additional_information \nstring not null \n)/Subtype/Stamp/Rect[271.36 144.16 373.09 132.8]/AP<</N 21 0 R>>>>
+endobj
+78 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[271.36 131.36 288.12 120]/AP<</N 21 0 R>>>>
+endobj
+79 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.roles)/Subtype/Stamp/Rect[68.8 277.76 91.2 266.4]/AP<</N 21 0 R>>>>
+endobj
+80 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.roles)>>/Subtype/Link/H/N/Rect[68.8 275.2 91.2 266.4]>>
+endobj
+81 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[53.76 259.36 67.63 248]/AP<</N 21 0 R>>>>
+endobj
+82 0 obj
+<</Name/#23Comment/Contents(name \nstring not null \n)/Subtype/Stamp/Rect[53.76 246.56 79.77 235.2]/AP<</N 21 0 R>>>>
+endobj
+83 0 obj
+<</Name/#23Comment/Contents(slug \nstring not null \n)/Subtype/Stamp/Rect[53.76 233.76 72.83 222.4]/AP<</N 21 0 R>>>>
+endobj
+84 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[53.76 220.96 70.52 209.6]/AP<</N 21 0 R>>>>
+endobj
+85 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.tags)/Subtype/Stamp/Rect[620.8 303.36 639.2 292]/AP<</N 21 0 R>>>>
+endobj
+86 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.tags)>>/Subtype/Link/H/N/Rect[620.8 300.8 639.2 292]>>
+endobj
+87 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[604.16 284.96 618.03 273.6]/AP<</N 21 0 R>>>>
+endobj
+88 0 obj
+<</Name/#23Comment/Contents(name \nstring not null \n)/Subtype/Stamp/Rect[604.16 272.16 630.17 260.8]/AP<</N 21 0 R>>>>
+endobj
+89 0 obj
+<</Name/#23Comment/Contents(slug \nstring not null \n)/Subtype/Stamp/Rect[604.16 259.36 623.23 248]/AP<</N 21 0 R>>>>
+endobj
+90 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[604.16 246.56 620.92 235.2]/AP<</N 21 0 R>>>>
+endobj
+91 0 obj
+<</Name/#23Comment/Contents(Collection e-commerce.users)/Subtype/Stamp/Rect[164 162.56 187.2 151.2]/AP<</N 21 0 R>>>>
+endobj
+92 0 obj
+<</BS<</S/U/W 0>>/A<</S/URI/URI(#e-commerce.users)>>/Subtype/Link/H/N/Rect[164 160 187.2 151.2]>>
+endobj
+93 0 obj
+<</Name/#23Comment/Contents(_id \noid not null \n)/Subtype/Stamp/Rect[130.56 144.16 144.43 132.8]/AP<</N 21 0 R>>>>
+endobj
+94 0 obj
+<</Name/#23Comment/Contents(first_name \nstring not null \n)/Subtype/Stamp/Rect[130.56 131.36 179.11 120]/AP<</N 21 0 R>>>>
+endobj
+95 0 obj
+<</Name/#23Comment/Contents(last_name \nstring not null \n)/Subtype/Stamp/Rect[130.56 118.56 178.54 107.2]/AP<</N 21 0 R>>>>
+endobj
+96 0 obj
+<</Name/#23Comment/Contents(email \nstring not null \n)/Subtype/Stamp/Rect[130.56 105.76 155.41 94.4]/AP<</N 21 0 R>>>>
+endobj
+97 0 obj
+<</Name/#23Comment/Contents(profile_image \nstring not null \n)/Subtype/Stamp/Rect[130.56 92.96 192.98 81.6]/AP<</N 21 0 R>>>>
+endobj
+98 0 obj
+<</Name/#23Comment/Contents(role \nstring not null \n)/Subtype/Stamp/Rect[130.56 80.16 147.9 68.8]/AP<</N 21 0 R>>>>
+endobj
+99 0 obj
+<</Name/#23Comment/Contents(__v \ninteger not null \n)/Subtype/Stamp/Rect[130.56 67.36 147.32 56]/AP<</N 21 0 R>>>>
+endobj
+100 0 obj
+<</Filter/FlateDecode/Length 2995>>stream
+xœí\KoãÈ¾ëWğ¸{°–ın^ƒÍã »YrXÀàÈ²G%y(yƒù÷©W7)g4î¦';ö *³«ú+’İõ±ºf?­şp»2m‚nnïW¼]ı¼j×±iñ?únít³Ù¯~ø“jŒz€Ê·.Âoôƒ·¡Ñ›"cÕİëÖ¾¹İ¯¾û[¿;4í?ŸÏßßşçùe>6vvíÜlü_¿mÇfs÷‡Ss>6ã¶¿oÎ·ğ·ı~{8Ÿšx£ÚİjÕüúİæ×ï›?ü²ù¸İ÷Ùÿ5˜ÿóŠ°i˜k¿R:+a”F¢ìZÕy0ë”	hŞiå(Ê[µ0ÔµxwÚuhƒ‚ò{óòhãfA·	AâMà›Ûq×³®y»ôš\Ş¢›éõ üÿ\ ~
+€Ş8ƒÏbšñÆ
+Z4¼1ğk»VÃ¯í,¼ğl¯]Â°×Ú5ÿú¿ñ»+|ÏP°ÇÄ]k#ËÈN¯­\Å7Y«("¾_›ÉÚ…d Š×k˜.kïÈÜ²¸¡éXVÑ‡µK—¢·ÉœDÇs Ün„¶Œ³Âİ!Ğ	±5n•:X¼ÑëàğÆÄ Ö¦‰qİI¼`@ Î5«\ê Œ˜8jĞ´‹àiÈ*@99ÑŞÃU™€•LÎ†ã×1Š
+;!]"'¢ĞxP£É‡¤,q@xgqm`+ºÃÆ¦í"í3ğ2ğMøf9¤†Ÿúóy;šÍ©ùá'Õœ6Ñª)BV¦YgüİRÚvï%Ï7ˆìfq2À)|¹yï Š‡ì‹¯<mÂ—I¾£;I›~<Ÿ¦½?‡½Ş’OMÎö03˜i³¶°—7?üã¡k~<6?a ½y½s_ £!¿^àÜíîg‰ÈØ¨pN`ñ—Vê¥HŸíÚû™ãÜÇõ€ g*qªVæx÷Ï›s5Vå×zîçtw‡Ç2¸ªSupP4æù´—ÜZ†;ù©‚4´nˆ—w÷îÓs8ïÎŸ«q·q­ıÌáîpŞ>nÇBà®«îµÌó¡?mïÆİf»rvUÙV®8eÓj9m‡ám³«:Èºrñ)“Íùxîßˆ9ûªÃ¬jW J+çîî·¥X³—X3MSm/Y[·QÈOZQNb4\œ¸Y–ÌŠi]²¶(Ìibo”!{pÍâ†'eó ~t¦‹ éìäÖ‰Ò r')B#Ø^pNñ7°îQy¡n LX¥xˆv±ÑáÅÀì-iBßX5-³°¤B$îù1ğ@L#“°²IX¥Ø,ò/ÛK~Dk}²D•!“*ì’ıöyœ¯S¹oúµxIî4‘;¢ã,d/Cf‚Ñİ²îş!ënrB#ö‚sŠWä+Ö~•æÁ^ÕÊÌó`ï8»mÙ#0OP¯±=ÆŠwEÕ‡A‹¼-Ö“Õ1ßË>Šø#uÅ”$!u‰Bú}u¶Á5­ÕÌI)b´¦˜‡$´6±‡Óğü¸íä¤
+m9éOh3cßíûÇÅ77{©ƒ[ÎıÜLÚï·§Í¸{:ï‡¥ «? xW,ÿĞu_@@0Ï é^% Îå¢AP:ÕdÏT2º•u’x³E1íµ$óF)v¼ƒ¥óF‹Ó¤}ÖÙ0m³6C1&Q6Y”e‹%‘æCB•qÑçfõ!À5•‡‚
+¹:äâÈL.XIÜB4¦bÏl='bÁ“&^á¬Ÿh…³fb¢©`MêB¢"q@Hgñ¼N&¾Gü’2¢8@Ï"Ó—¡é›‚Óï…§/âÓ9À‰!Ğ(&Á• ø~pï·c7À©‹¨)gÎ›7ÛT5/ ˜å´@`æ„…•Ó¬±¥:P51 ¸å¼@àæŒÎ_Î»óvªEß#ÚÏ\8ärr sV—ZP5Ş¨×°‹O~úqì?¢-ç‚6§ó»a€y×ßßÛS=èvYyQWF=+ë}Ü==½v}™`——	v®êÇşpê7ÈÃîNçşü¼xX²+Ê„<×öúÏx ~·?Ş×ÒŞÙ×’t‚\^&È¹¶— ¿é>ÛZªN Ë…:÷(©½²Y´Ëë„ùuBÙ™Ê„F{1Dt• <D[$+¤9ˆb€ùp	ÅDŠH†u<…í˜B¸)24†I‹ß%ÕĞ 2&QHÊQÉğVæCB•q±tïhM,İË&Á;dÙ¤A xÁ'&xÇÑâ©l×2ßÍÅf{İáÙ+{fy#“²†ah:½%Õ¨.‘‹¤´lEM<ˆÂˆÄ!Åó:KÿñK–n‰¥ÓŒ³Èôeh:Ç¦§àô;F§gáé‹øtPç—Øä¸*{¥›Î‰ï/“¡kÛN~YğºÂÓ	J96@>çÄµûºVOÏ.Šx:Á,'¾3³ÕÕ;Æ‹Êaµœğ
+ÔLTÏŸ÷ınXˆ·ºFxË)¯à}y~÷ØÃv¬=«µ¸v3w…<AW0^=1Ôå%<¹Íõd——“]Aœ©éâ£e‹LfÑa8!.g¹‚xb¦KO–âú³pB\Nrq¦¥rHòùnùvQÏq	s9ÇÌÓaxÿXËmeÍM>jÖ\9µ¤™—ÂÇåV Çqß¿aù©%Ë¯«\}]ÎrÕ¬\ŞáîÚ¢›Jçğ¢GG¼F9-ò 2•YU\ÙÀãA;9wôít¼é35S¦,è3ñç§b¢šXÍŒÈÆÌiğì¹cŠ…"OÎVŒ)ã.,ã¹u´|>ï°ÀÍFJµoV!ºéğ›•©/k‰˜'Xµ¸`¾ÍŞ1§‰/wíDËm˜X¹ÈLÊIáIQ[3ÎY<¥óßÿ#~IÊ—Î}æäB8yBG*¡fBÌÁ¨÷,Ñq;}¨‰ŒgÜøîÚôW¥¾Ş8ıŒ‰Ç¡ä(İ©2 ÊI87c¾ƒ+cppYNÁä[¸‚OìE–pimÍy{ÁÑ¹ ­¦Ş´œy3ĞÌ”—œèr_]ë~ËY)`\ZÚÑ¶" ó73©‘î³¢Îd¥Ù™
+JÆ£ì©¿™M¦.mğÉÒ†æbyXx¿ğPŒÔ`|2f‘·”y®Ad‚ ¦mÂ_”b·WÇcQÒUo¹êCjä}xŞ6f…³ kX¹18izöÙ…1˜aØ;Ë™™5'Òñ.©Á`’IÑlEÏ<d@‰†;ëõ<õ-=ô—	ËSÂ
+ùl•#Lg·	&©¿íR„éìö="LgÃ$3„dJĞÂìløAF¹‚ÔBòıŸŸ×ö¦Àßù1¼–»èqÄâ],8j.ëò6V½¢æ
+RvQ”½fù´ÀÌ§ÉòWÄŞ¹Ò´@PËé€@“ë3X‚Z} MPËI@Í½>‡Å¶ıúAôÔôñè$¬uİy‡•{+Lk›é€$^†$YŞHvÔ•!fÊQÑ¶ó"m˜Ñ;!¾Ü—Á*5h²1‰V?-Ï4Ä³‹aÊ¨Ë:Ÿ©…ç.G	ãIAì
+si^0øÏ‚YÆÍ¿mÇ‹Y–»’DsÔR$.”³ôyDÒNÚi^Ö0j*bUQÎ¢Xiu&-Í=ˆÎ¸ÄáEUĞåü{Ì/SUàNfœPs[‘T’’JÈõ±Ş/8rx!™´	?5.ÓAn—>t¿’ªtëÄwî¯)è¤®¤ymêZÃrİé¬zy:[«4–]ç§³eİÊØÊVŞ«L(s©éa7ÎKJ˜Ú[üŒéª»•m(ïU&´1mßCÿ&°±ºYÀúòVeëÓwİv_.#@}u›2 µåMÊÔÍevÃönIgµ vÕ-ÊÔÃXØ¤eõ”e8M-»âM­rX^	ÖÎÓiÆµJğô¿Lø7àª“
+endstream
+endobj
+102 0 obj
+<</Contents 100 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>/XObject<</Xf9 9 0 R/Xf8 8 0 R>>/Pattern<</P1 20 0 R/P2 23 0 R/P3 25 0 R/P4 27 0 R/P5 29 0 R/P6 31 0 R/P7 33 0 R>>>>/Annots[34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 92 0 R 93 0 R 94 0 R 95 0 R 96 0 R 97 0 R 98 0 R 99 0 R]/Parent 101 0 R/MediaBox[0 0 1011.2 377.6]>>
+endobj
+104 0 obj
+<</Filter/FlateDecode/Length 1267>>stream
+xœ­š[s£F…ßù<zS-sãòš­d+©¤*›ø¬e#(‰ÿ}zrÙ»bZ‡LùJ¢?÷Lsºá)úá>RIœKßWQ/R·óş'úè1ºûÍ6mü«}îNã»û/tH2iÜö.~û¡ÈòË¹|&åW{?ŞGŸ¢§ˆşıõ;—@–©Øh‹<îëè1J6…‘…¿ŞÎGÓ‘*ß:^³Ç§Ó.Dj³‘7Å(¡6ú“ŠMzS¥%28-
+Ór1@Zi^ i¹4­)I+pZ§åb´”‚Ó¢8-ó&-·$dü­“´—L{_"±1ñ?„£`ZÉF«Bºmªşñ12™q«gC›Ã¼’Üş>ú“ˆŸÜú±[Ÿôc+ú’–÷áÕò^Swºı¾ŞM×Æ[ÛÃy¥ïÜò}M•qF?ñ…šÌÔ„pD“¢ /i«HşDı.şı¯ë¤,™V+›j!+aÜJAXİ"‹êPè•‡}W¶£W"ÂÆ¾iwË*é
+	¤!†ºçN$ÂãTŠ"”J„4ŸËòédÛ±Ÿ½rpÓõ®î—õ&&”^„ô`‡º<öÍ¶ö*EœÒ´@êO)DêıW
+!Y¥Y¨z‘Æn´·HE˜¬Ô4TQ‚Heù·W"Âb%êo—ûâ]ùç¶ªÿ­—oÆ©V”ÿV¡¨‚—Ş_„½b½mLa€VÁ¤°'w!¨›b —iìÉ]œ–Â<¹°'w!pZóä:‡=¹AÓšbByrºL_<ù¼İ“›"_éÉ©ªt}ã©&Gj'cÌ!ãç –Ï˜›4”™ƒH­=xï€Œñ«Æ„òoiØŸ–r:K„`ŒDÊ¸A¤æ`wşÓˆĞ82”eƒHU=lûæè*†W)Âä”ŠP"1bqM›Îƒ96Å96¶èØ´F›Æ§¨zÅUƒST…OQÕŠ)ª§¨
+Ÿ¢ªSTNQ>EU+¦¨ê›)*“V?8p!pZ	öà@RÃ<-ÿo;i­½ØÎyÿºíÔzíìúªî=Åš!2–‚1–bù,§6?„HnJ:p s×ÁÆ†é<bjÆú°t•†œª`sCˆ4O„½:! í{»4W&•Áf†é¡Ùïé:+mUõõà‹p™ËWB¤áss<Ş*3r¯ŒWÊEHcoÛÁN7†ríxòFĞœ`dœèŒöùP·cyè*oçA9©2XyBH©7œWË‰M‚U)„4¹š[¤"PFª,B•(ˆÄôÉ‹»³Ê,`Ÿ,Ó`}2„âúd¶Ø'K‰ôÉ¢€ûd‚ö2SĞËˆî“]œVŠõÉBÃ}²ÓÒXŸ,Ü'»8-õÉ9Ü&çx—œcM²	Ö#Ó:{é‘çıë=²”ëzdÆÙS)ƒF¤L—Á˜bùºdqeBºîæ‘¸3Œ¹d>ê—ˆÆÏ§ÃCk›½W'Bätf¡ü'Dº¼0µ³´®zïûR×ß%ÊB¤Ó@Lî´êPö"İö^„ä\¨ÁjBºí½0É*ÁJBš_Ex.Ùò‹P¹ë7	V–ÒhwŞ‚ùkQª! [U+Cn
+Û>vıÁrE	¡³o {9XCŒ ¸õiB>6÷Ô8äCãÕ½ğ6‚
+endstream
+endobj
+103 0 obj
+<</Contents 104 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>>>/Parent 101 0 R/MediaBox[0 0 595 842]>>
+endobj
+106 0 obj
+<</Filter/FlateDecode/Length 720>>stream
+xœ­˜ÍÓ0…÷~
+/‰àÿ$[Œ`Å@÷UEÓ(CÚ2ix|®ÓªthãÛ¢,bµ9ŸîIlÛâíLX%cäl)”|­õ©õ÷·àbëıLÜ‹G¡e¼ºº×)'½óR²«ÄJ¨¬ô¦tòßûáé<Ò™¦çû|èŒã|fnÒXm3wĞ…›$T–+à²H—5HYFÁe‘.+j•?²‘ŸèËßQKõ­¡3/ÄÔETæliâ=8KÂ/wÂç>ö‡ŒnëcßˆíV|%â}ìhZ*º´´–şÌål-Ş| ¾Dİl5¦:_¼Û¶mõmßl7²Û¶ÕîåìJªc‡<§™—æDUGª"ÑŒ.ƒwKö{ê+ùùûuR®ú—‰ÀæÍr *íãKFXÛA9ÌÀaÒBÚ,ÖUÒÛí»fS[Œ³Í4Ò®}ªé`‚1½šÊ"BšÏ&"¬f³¯êª¶hÃlp€Ü,«ß©qm€áÃŒjE£z|c ìŒõ<GCa€Ş¡É%h2ô °‚ã=Jà²ï¾„ã=JĞ²zÍT9Jıá”£Çöõ…•£ûE=<ÜBLOLŒB0&F!V*Fƒ¿œÆMÀ‰‹QÆdLpÈZ(i!q1ŠÁ‹fªÅDbbbq1ôåªctŒfT#(.FQØ`Œú €õôJĞ` 	Qƒä•‚Ó=Jà²–îß¼»›wnŞíªûOşÿ¡K½çºÇöõĞõÁ
+İ§]ÕNïÙŒI]Æ¤.ÄJ¥®·Síì Òªévû9—½’	&o¦ÚßA¤vq‹O„ÈùTS-£ Rµ^4mÒ#Bc<:èL)å"ıè¶«¦­æÍzQ'¿'Då¼Nvº‘â¡^Òâ„§Kn²Ó%ˆÄ¬!·ftWÎqF¯İ•sœ‘kFÅ­QØëÖ,
+endstream
+endobj
+105 0 obj
+<</Contents 106 0 R/Type/Page/Resources<</Font<</F1 18 0 R>>>>/Parent 101 0 R/MediaBox[0 0 595 842]>>
+endobj
+107 0 obj
+[103 0 R/XYZ 30 818 0]
+endobj
+108 0 obj
+[103 0 R/XYZ 33 788 0]
+endobj
+109 0 obj
+[103 0 R/XYZ 33 610 0]
+endobj
+110 0 obj
+[103 0 R/XYZ 33 460 0]
+endobj
+111 0 obj
+[103 0 R/XYZ 33 240 0]
+endobj
+112 0 obj
+[105 0 R/XYZ 33 819 0]
+endobj
+113 0 obj
+[105 0 R/XYZ 33 697 0]
+endobj
+114 0 obj
+[105 0 R/XYZ 33 575 0]
+endobj
+18 0 obj
+<</Subtype/Type1/Type/Font/BaseFont/Helvetica/Encoding/WinAnsiEncoding>>
+endobj
+1 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 21>>stream
+xœ3P°PÈå24R9\Á\ ÁÒ
+endstream
+endobj
+2 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 21>>stream
+xœ3P°PÈå24R9\Á\ ÁÒ
+endstream
+endobj
+3 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 21>>stream
+xœ3P°PÈå24R9\Á\ ÁÒ
+endstream
+endobj
+4 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 21>>stream
+xœ3Q°PÈå24R9\Á\ ıÖ
+endstream
+endobj
+5 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 33>>stream
+xœ3Q°PÈå24R9\Á †	oæ9†F`a Œ¥+
+endstream
+endobj
+6 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 21>>stream
+xœ3P°PÈå24R9\Á\ ÁÒ
+endstream
+endobj
+7 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 33>>stream
+xœ3P°PÈå24R9\Á †	oæ9†F`a Œ'
+endstream
+endobj
+8 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 59>>stream
+xœ3T(ç2Tğâ,.=sSC=SK¥äÎe¤`h¨Ëe¢`©ÃäZ‚y@A {Ë
+endstream
+endobj
+9 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 169>>stream
+xœE=Ã FwŸÂ'°0ØÖ,•:ö
+*UéÒ¡¹~?C›ğğ™?çƒ”¯hJÒZvç$U½v0[K•o,uÏİ0µ-tså×Teá&ŸS»ô:»seÈF.fÓ‹|#!‘Ø(lF÷›ntFGñ›Y¹’U7Hœñ¢LKüÆ	ÜÇI	>MGŞ¤Ã¢Â%sìV8RõË¸MWüÕA”:û
+endstream
+endobj
+10 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 127>>stream
+xœEAÃ0ï¼‚ À6Ô/¨ÔcòßªæœïÇà6=À®¼³H|à˜ÌÔ2•âÊ·'<gês@¥†1ØAW2ñàMšõ©Z-Š"ô@ÏVÚNİÖº“4Õº|¡/&ˆáÈõ{p£YşŸYÍ}şì„öÅ*‹
+endstream
+endobj
+11 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 149>>stream
+xœEKÃ0D÷œ‚ 0Ä'¨Ôe|ïªdëp“.O03HÎø†ŒH$R´a¢ZµxO=Ü_ ¤ØhÃ3¨SÃ7›0àŞmÄA>«xY¢¿Ø®emì€_Ü¤[/¬IüTÎ– á
+ìÔe•g0¡óâJ?‰ƒ+&8… Ê=÷>á‘†ù³œÃşâ‚/[¯4 
+endstream
+endobj
+12 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 81>>stream
+xœ3Tğâ2TÈâ2Ğ³4473U0Ğ³°414Ò&FÆ¦
+Eé@)sc  
+™™›€”[)¹s™*˜*aQ*—ĞCÇ™ â%w
+endstream
+endobj
+13 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 80>>stream
+xœ5‰«À0¹§xD¶ãOBK*v‡ªRaö5):İ`‘à%ne¸ç°bÚdÅuÖòÑ+Móâ4ì‡CÇ¾é … ù ÜÍØ
+endstream
+endobj
+14 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 76>>stream
+xœ3R(ç2Tğâ,.=ss#SS=3CS3K mdbn`¦ä”2U0RÈå2S°²r¸‚Á"¦@œ•Ëá2V0‚Ê øoŞ
+endstream
+endobj
+15 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 73>>stream
+xœ3R(ç2Tğâ,.=cS33=SS mn`i¡ä”1U0RÈå2S°²r¸‚¹Œ´#ÄÌÌÁ2†@É­l
+endstream
+endobj
+16 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 25>>stream
+xœ³P0PÈå24S ¢.•Æ 4a
+endstream
+endobj
+17 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 16 16]/Length 25>>stream
+xœ³P04SÈå
+9\`2 /â*
+endstream
+endobj
+21 0 obj
+<</Subtype/Form/Filter/FlateDecode/Type/XObject/Matrix [1 0 0 1 0 0]/FormType 1/Resources<<>>/BBox[0 0 1 1]/Length 8>>stream
+xœ    
+endstream
+endobj
+27 0 obj
+<</Shading 115 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+29 0 obj
+<</Shading 116 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+23 0 obj
+<</Shading 117 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+33 0 obj
+<</Shading 118 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+20 0 obj
+<</Shading 119 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+31 0 obj
+<</Shading 120 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+25 0 obj
+<</Shading 121 0 R/Matrix[1 0 0 1 0 0]/PatternType 2>>
+endobj
+121 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 294.4 0 281.6]/ShadingType 2/Function 24 0 R/Extend[true true]>>
+endobj
+118 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 166.4 0 153.6]/ShadingType 2/Function 32 0 R/Extend[true true]>>
+endobj
+119 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 256 0 243.2]/ShadingType 2/Function 19 0 R/Extend[true true]>>
+endobj
+120 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 307.2 0 294.4]/ShadingType 2/Function 30 0 R/Extend[true true]>>
+endobj
+117 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 294.4 0 281.6]/ShadingType 2/Function 22 0 R/Extend[true true]>>
+endobj
+116 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 281.6 0 268.8]/ShadingType 2/Function 28 0 R/Extend[true true]>>
+endobj
+115 0 obj
+<</ColorSpace/DeviceRGB/Coords[0 281.6 0 268.8]/ShadingType 2/Function 26 0 R/Extend[true true]>>
+endobj
+101 0 obj
+<</Kids[102 0 R 103 0 R 105 0 R]/Type/Pages/Count 3/ITXT(1.3.26)>>
+endobj
+122 0 obj
+<</Names[(Main Layout) 107 0 R(e-commerce.carts) 108 0 R(e-commerce.categories) 109 0 R(e-commerce.orders) 110 0 R(e-commerce.products) 111 0 R(e-commerce.roles) 112 0 R(e-commerce.tags) 113 0 R(e-commerce.users) 114 0 R]>>
+endobj
+123 0 obj
+<</Dests 122 0 R>>
+endobj
+124 0 obj
+<</Names 123 0 R/Type/Catalog/Pages 101 0 R>>
+endobj
+125 0 obj
+<</ModDate(D:20211008105851+05'30')/CreationDate(D:20211008105851+05'30')/Producer(OpenPDF 1.3.26)>>
+endobj
+xref
+0 126
+0000000000 65535 f 
+0000016260 00000 n 
+0000016435 00000 n 
+0000016610 00000 n 
+0000016785 00000 n 
+0000016960 00000 n 
+0000017147 00000 n 
+0000017322 00000 n 
+0000017509 00000 n 
+0000017722 00000 n 
+0000018046 00000 n 
+0000018329 00000 n 
+0000018634 00000 n 
+0000018870 00000 n 
+0000019105 00000 n 
+0000019336 00000 n 
+0000019564 00000 n 
+0000019744 00000 n 
+0000016171 00000 n 
+0000000015 00000 n 
+0000020368 00000 n 
+0000019924 00000 n 
+0000000122 00000 n 
+0000020226 00000 n 
+0000000229 00000 n 
+0000020510 00000 n 
+0000000336 00000 n 
+0000020084 00000 n 
+0000000443 00000 n 
+0000020155 00000 n 
+0000000550 00000 n 
+0000020439 00000 n 
+0000000657 00000 n 
+0000020297 00000 n 
+0000000764 00000 n 
+0000000882 00000 n 
+0000001016 00000 n 
+0000001132 00000 n 
+0000001264 00000 n 
+0000001403 00000 n 
+0000001542 00000 n 
+0000001689 00000 n 
+0000001832 00000 n 
+0000001975 00000 n 
+0000002119 00000 n 
+0000002255 00000 n 
+0000002392 00000 n 
+0000002509 00000 n 
+0000002641 00000 n 
+0000002775 00000 n 
+0000002911 00000 n 
+0000003048 00000 n 
+0000003191 00000 n 
+0000003327 00000 n 
+0000003462 00000 n 
+0000003577 00000 n 
+0000003709 00000 n 
+0000003847 00000 n 
+0000003991 00000 n 
+0000004130 00000 n 
+0000004277 00000 n 
+0000004425 00000 n 
+0000004573 00000 n 
+0000004717 00000 n 
+0000004863 00000 n 
+0000005007 00000 n 
+0000005143 00000 n 
+0000005278 00000 n 
+0000005395 00000 n 
+0000005525 00000 n 
+0000005661 00000 n 
+0000005802 00000 n 
+0000005948 00000 n 
+0000006091 00000 n 
+0000006232 00000 n 
+0000006375 00000 n 
+0000006520 00000 n 
+0000006655 00000 n 
+0000006809 00000 n 
+0000006943 00000 n 
+0000007077 00000 n 
+0000007193 00000 n 
+0000007321 00000 n 
+0000007455 00000 n 
+0000007589 00000 n 
+0000007723 00000 n 
+0000007856 00000 n 
+0000007971 00000 n 
+0000008103 00000 n 
+0000008239 00000 n 
+0000008373 00000 n 
+0000008509 00000 n 
+0000008643 00000 n 
+0000008757 00000 n 
+0000008889 00000 n 
+0000009029 00000 n 
+0000009170 00000 n 
+0000009306 00000 n 
+0000009449 00000 n 
+0000009582 00000 n 
+0000009714 00000 n 
+0000021384 00000 n 
+0000012779 00000 n 
+0000014824 00000 n 
+0000013487 00000 n 
+0000015732 00000 n 
+0000014943 00000 n 
+0000015851 00000 n 
+0000015891 00000 n 
+0000015931 00000 n 
+0000015971 00000 n 
+0000016011 00000 n 
+0000016051 00000 n 
+0000016091 00000 n 
+0000016131 00000 n 
+0000021269 00000 n 
+0000021154 00000 n 
+0000021039 00000 n 
+0000020696 00000 n 
+0000020811 00000 n 
+0000020924 00000 n 
+0000020581 00000 n 
+0000021468 00000 n 
+0000021709 00000 n 
+0000021745 00000 n 
+0000021808 00000 n 
+trailer
+<</Info 125 0 R/ID [<178c2726c12a66937f9cd2db92d1f426><a3fae50b1bf48353eb494c1207668e26>]/Root 124 0 R/Size 126>>
+startxref
+21926
+%%EOF
