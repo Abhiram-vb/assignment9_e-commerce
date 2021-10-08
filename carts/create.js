@@ -51,6 +51,8 @@ const insertManyData = async ()=>{
     catch(err){
         console.log(err)
     }
+    finally{
+        mongoose.connection.close()
+    }
 }
 insertManyData()
-// mongoose.connection.close()

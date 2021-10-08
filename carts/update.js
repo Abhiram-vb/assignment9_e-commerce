@@ -10,5 +10,8 @@ const updateOrderDetails = async(_id)=>{
     catch(err){
         console.log(err)
     }
+    finally{
+        mongoose.connection.close()
+    }
 }
 updateOrderDetails("615fd1dbf69db0ad3138a57c")

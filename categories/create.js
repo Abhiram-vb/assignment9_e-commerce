@@ -48,4 +48,3 @@ const insertManyData = async ()=>{
     }
 }
 insertManyData()
-// 

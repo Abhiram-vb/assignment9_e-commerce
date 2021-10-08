@@ -68,4 +68,3 @@ const insertManyData = async ()=>{
     }
 }
 insertManyData()
-// mongoose.connection.close()
